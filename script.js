@@ -1,2 +1,1 @@
-alert('saffsd')
-sadfsadfsad
+console.log('hello wolrd');
